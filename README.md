@@ -1,5 +1,5 @@
 # HamsterWheel
-Sourcecode for 3D printed Hamster Wheel powered by ESP32-S2 Breakout Board
+Sourcecode for 3D printed Hamster Wheel powered by ESP32-S3 Breakout Board
 
 | Project Build | Preview (Animated Video) |
 |---|---|
